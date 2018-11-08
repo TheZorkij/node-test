@@ -5,7 +5,7 @@ test ('1', ()=> {
 });
 
 test ('2', ()=> {
-    expect(expression(1,5,2)).toBe(10);
+    expect(expression(1,5,2)).toBe(3);
 });
 
 test ('3', ()=> {
